@@ -1,0 +1,15 @@
+{
+    "_locale": "en",
+    "Card": {
+        "default" : {
+            "publication": "Published on ",
+            "addFav": "Add to favorites",
+            "removeFav": "Remove from favorites"
+        },
+        "notifications": {
+            "add": "Successfully added to favorites !",
+            "remove": "Successfully removed from favorites !",
+            "error": "Sorry, an error occurred !"
+        }
+    }
+}

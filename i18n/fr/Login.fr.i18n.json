@@ -1,0 +1,24 @@
+{
+    "_locale": "fr",
+    "Login": {
+        "fields" : {
+            "title": "Se connecter",
+            "email": "Adresse Mail",
+            "password": "Mot De Passe",
+            "password:forgotten": "Mot de passe oublié?",
+            "submit": "Se connecter",
+            "signup": "S'inscrire",
+            "anaccount?": "Pas de compte? "
+        },
+        "errors": {
+            "email": "Adresse mail incorrect.",
+            "email:required": "Adresse mail requise.",
+            "password": "Mot de passe requis."
+        },
+        "notifications": {
+            "success": "Connexion réussie !",
+            "error": "Erreur",
+            "error:description": "Mauvais couple email/mot de passe !"
+        }
+    }
+}

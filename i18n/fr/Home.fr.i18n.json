@@ -1,0 +1,13 @@
+{
+    "_locale": "fr",
+    "Home": {
+        "paragraphs" : {
+            "first": "La seule chose que vous ayez à faire, c'est de fournir les mots-clés qui définissent votre business dans le formulaire de recherche.",
+            "second": "Tubeleads se charge de vous proposer les noms de domaines disponibles à l’achat via un lien namecheap.",
+            "third": "Une simple redirection, et le tour est joué : votre site gagne du trafic !"
+        },
+        "button": {
+            "text": "C'est parti !"
+        }
+    }
+}

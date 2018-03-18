@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "env",
+    "react"
+  ],
+  "plugins": [
+    "lodash",
+    "transform-class-properties"
+  ]
+}

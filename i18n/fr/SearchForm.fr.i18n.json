@@ -1,0 +1,15 @@
+{
+    "_locale": "fr",
+    "SearchForm": {
+        "fields" : {
+            "keywords": "Mots-clés...",
+            "search": "Rechercher",
+            "newSearch": "Nouvelle Recherche",
+            "newSearchTooltip": "Vous pourrez toujours voir vos précédentes recherches dans historique."
+        },
+        "errors": {
+            "keywords": "Veuillez saisir des mots-clés.",
+            "provider": "Veuillez séléectionner un service."
+        }
+    }
+}

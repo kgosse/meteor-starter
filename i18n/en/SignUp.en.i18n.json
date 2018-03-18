@@ -1,0 +1,33 @@
+{
+    "_locale": "en",
+    "Signup": {
+        "fields" : {
+            "title": "Sign Up",
+            "firstname": "First Name",
+            "lastname": "Last Name",
+            "email": "Email Address",
+            "password": "Password",
+            "confirm": "Confirm Password",
+            "hint": "Use at least six characters.",
+            "submit": "Sign Up",
+            "login": "Log In",
+            "anaccount?": "Already have an account? "
+        },
+        "errors": {
+            "firstname": "What's your first name ?",
+            "lastname": "What's your last name ?",
+            "email": "Is this email address correct ?",
+            "email:required": "Need an email address here.",
+            "password": "Need a password here.",
+            "password:minlength": "Please use at least six characters.",
+            "confirm": "Please provide a password",
+            "confirm:minlength": "Please use at least six characters.",
+            "confirm:equalto": "Please enter the same password as above"
+        },
+        "notifications": {
+            "success": "Welcome !",
+            "error": "Error",
+            "error:description": "Sorry, the sign up failed !"
+        }
+    }
+}

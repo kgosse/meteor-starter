@@ -1,0 +1,33 @@
+{
+    "_locale": "fr",
+    "Signup": {
+        "fields" : {
+            "title": "S'inscrire",
+            "firstname": "Prénom",
+            "lastname": "Nom",
+            "email": "Adresse mail",
+            "password": "Mot De Passe",
+            "confirm": "Confirmation Mot De Passe",
+            "hint": "Utilisez au moins 6 charactères.",
+            "submit": "S'inscrire",
+            "login": "Se connecter",
+            "anaccount?": "Déjà un compte? "
+        },
+        "errors": {
+            "firstname": "Quel est votre prénom ?",
+            "lastname": "Quel est votre nom ?",
+            "email": "Adresse mail incorrecte",
+            "email:required": "Adresse mail requise.",
+            "password": "Mot de passe requis.",
+            "password:minlength": "Utilisez au moins 6 charactères.",
+            "confirm": "Mot de passe requis.",
+            "confirm:minlength": "Utilisez au moins 6 charactères.",
+            "confirm:equalto": "Veuillez saisir le même mot de passe que plus haut."
+        },
+        "notifications": {
+            "success": "Inscription réussie !",
+            "error": "Erreur",
+            "error:description": "Désolé, l'inscription n'a pu s'effectuer."
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_locale": "fr",
+    "History": {
+        "head": {
+            "keywords": "Mots-Clés",
+            "provider": "Service",
+            "date": "Date"
+        },
+        "buttons" : {
+            "view": "Voir",
+            "delete": "Supprimer",
+            "confirm": "Êtes-vous sûr ?",
+            "yes": "Oui",
+            "no": "Non"
+        },
+        "notifications": {
+            "success": "Recherche supprimée !",
+            "error": "Une erreur s'est produite !",
+            "nosearch": "Pas encore de recherche !"
+        }
+    }
+}

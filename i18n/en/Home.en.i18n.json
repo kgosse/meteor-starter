@@ -1,0 +1,13 @@
+{
+    "_locale": "en",
+    "Home": {
+        "paragraphs" : {
+            "first": "The only thing you have to do is to write in the search form the keywords that define your website.",
+            "second": "TubeLeads will then show you the domains that are available. You'll have a namecheap link to buy those domains.",
+            "third": "Finally, you'll just need to make a redirection to your main website and that's it ! You can start having more visitors !"
+        },
+        "button": {
+            "text": "Start searching !"
+        }
+    }
+}

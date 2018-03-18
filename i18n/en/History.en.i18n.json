@@ -1,0 +1,22 @@
+{
+    "_locale": "en",
+    "History": {
+        "head": {
+            "keywords": "Keywords",
+            "provider": "Provider",
+            "date": "Date"
+        },
+        "buttons" : {
+            "view": "View",
+            "delete": "Delete",
+            "confirm": "Are you sure ?",
+            "yes": "Yes",
+            "no": "No"
+        },
+        "notifications": {
+            "success": "Search deleted !",
+            "error": "Sorry, an error occured !",
+            "nosearch": "No searches yet !"
+        }
+    }
+}

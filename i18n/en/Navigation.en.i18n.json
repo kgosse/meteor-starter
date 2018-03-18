@@ -1,0 +1,17 @@
+{
+    "_locale": "en",
+    "Navigation": {
+        "authenticated" : {
+            "home": "Home",
+            "search": "Search",
+            "history": "History",
+            "favorites": "Favorites",
+            "profile": "Profile",
+            "logout": "Logout"
+        },
+        "public": {
+            "login": "Log In",
+            "signup": "Sign Up"
+        }
+    }
+}

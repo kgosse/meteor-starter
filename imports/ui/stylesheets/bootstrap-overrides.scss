@@ -1,0 +1,26 @@
+@import './mixins';
+
+.page-header {
+  margin-top: 0;
+}
+
+.tl-navbar {
+  display: flex;
+}
+
+.tl-navbar-li {
+  align-self: center;
+  justify-self: center;
+  color: #777;
+  cursor: pointer;
+
+  > span.active {
+    font-weight: bold;
+  }
+}
+
+@include breakpoint(tablet) {
+  .page-header {
+    margin-top: 20px;
+  }
+}

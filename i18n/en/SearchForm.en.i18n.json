@@ -1,0 +1,15 @@
+{
+    "_locale": "en",
+    "SearchForm": {
+        "fields" : {
+            "keywords": "Keywords...",
+            "search": "Search",
+            "newSearch": "Make a new search",
+            "newSearchTooltip": "You can still have access to your previous searches in history"
+        },
+        "errors": {
+            "keywords": "Keywords are required.",
+            "provider": "You must select a provider."
+        }
+    }
+}
